@@ -14,7 +14,7 @@ setup(
     description="A cookbook for building recommendation systems with TorchRec and PyTorch Geometric",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ethanshenley/torchrec-pytorch-geometric",
+    url="https://github.com/ethanshenley/torchrec-pytorch-geometric-cookbook",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

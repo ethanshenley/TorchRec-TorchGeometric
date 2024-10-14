@@ -15,7 +15,7 @@ This repository provides a comprehensive set of recipes for building advanced re
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ethanshenley/torchrec-torchgeometric.git
+   git clone https://github.com/ethanshenley/torchrec-torchgeometric-cookbook.git
    cd torchrec-torchgeometric
    ```
 
